@@ -36,7 +36,7 @@ Agradeço à comunidade BUNJS pelo apoio e pelas contribuições.
 
 Autor
 
-[Seu nome]
+[Mutneja]
 
 Data
 
